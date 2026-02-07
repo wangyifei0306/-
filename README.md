@@ -1,2 +1,4 @@
-# -
-尝试
+print("hello world")
+print("hello")
+print("world")
+
